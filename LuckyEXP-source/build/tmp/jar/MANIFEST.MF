@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: LuckyEXP
+Implementation-Version: 1.0-SNAPSHOT
+Specification-Vendor: 
+Specification-Title: luckyexp
+Implementation-Timestamp: 2026-02-24T17:34:36+0200
+Specification-Version: 1
+Implementation-Vendor: 
+
